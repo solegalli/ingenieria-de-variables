@@ -20,3 +20,6 @@ venv.bak/
 
 # datasets
 *.csv
+
+#other files
+.DS_Store
