@@ -1,0 +1,15 @@
+Como preparar el zip file:
+
+1) Incluir los notebooksde las carpetas 1 a 13
+2) Incluir el set de datos sample_s2
+3) Incluir el text file GUARDA_DATASETS_AQUI
+4) Incluir la licencia
+
+NO INCLUIR
+==========
+1) Los sets de datos de Kaggle
+2) Los jupyter notebook checkpoint folders
+3) este archivo
+4) DS_Store
+5) .git folder
+6) el archivo con las environment specifications

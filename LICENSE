@@ -1,6 +1,8 @@
 BSD 3-Clause License
 
-Copyright (c) 2017-2019, Soledad Galli
+Copyright (c) Soledad Galli
+
+(En español al final del archivo)
 
 
 Redistribution and use in source and binary forms, with or without
@@ -27,3 +29,35 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+================================================
+
+Licencia BSD de 3 cláusulas
+
+Copyright (c) Soledad Galli
+
+
+Redistribución y uso en fuentes y formas binarias, con o sin
+modificación, están permitidos siempre que se cumplan las siguientes condiciones:
+
+1. Las redistribuciones del código fuente deben conservar este aviso de copyright con la
+   lista de condiciones indicadas en ella.
+
+2. Las redistribuciones en forma binaria deben reproducir este aviso de copyright o licencia,
+   con esta lista de condiciones indicadas. La licencia debe ser incluida en la documentación
+   y / u otros materiales provistos con la distribución.
+
+3. Ni el nombre del titular de los derechos de autor ni los nombres de sus
+   contribuyentes pueden ser utilizados para respaldar o promocionar productos derivados de
+   este software sin permiso previo específico por escrito.
+
+ESTE SOFTWARE ES PROPORCIONADO POR LOS TITULARES DE LOS DERECHOS DE AUTOR Y LOS CONTRIBUYENTES "TAL CUAL"
+Y CUALQUIER GARANTÍA EXPRESA O IMPLÍCITA, INCLUYENDO, PERO SIN LIMITARSE A, GARANTÍAS IMPLÍCITAS DE
+COMERCIABILIDAD Y APTITUD PARA UN PROPÓSITO ES RENUNCIADA.
+EN NINGÚN CASO SERÁ RESPONSABLE EL TITULAR DE LOS DERECHOS DE AUTOR O LOS CONTRIBUYENTES
+POR LOS DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES, EJEMPLARERS O CONSECUENTES
+(INCLUYENDO, PERO SIN LIMITARSE A, LA ADQUISICIÓN DE BIENES SUSTITUTOS O
+SERVICIOS; PÉRDIDA DE USO, DATOS O GANANCIAS; O INTERRUPCIÓN EMPRESARIAL) QUE HAYAN SIDO
+CAUSADOS Y EN CUALQUIER TEORÍA DE RESPONSABILIDAD, INCLUSO EN CONTRATO, RESPONSABILIDAD ESTRICTA
+(INCLUYENDO NEGLIGENCIA O DE OTRA MANERA) QUE SURJAN DE CUALQUIER FORMA FUERA DEL USO
+DE ESTE SOFTWARE, INCLUSO SI SE LE INDICA LA POSIBILIDAD DE TALES DAÑOS.
