@@ -1,0 +1,8 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# datasets
+*.csv
+
+# other files
+.DS_Store
