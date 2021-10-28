@@ -1,13 +1,14 @@
-﻿## Ingeniería de Variables para Machine Learning - Código
+﻿![PythonVersion](https://img.shields.io/badge/python-3.6%20|3.7%20|%203.8%20|%203.9-success)
+[![License https://github.com/solegalli/ingenieria-de-variables/blob/master/LICENSE](https://img.shields.io/badge/license-BSD-success.svg)](https://github.com/solegalli/ingenieria-de-variables/blob/master/LICENSE)
+[![Sponsorship https://www.trainindata.com/](https://img.shields.io/badge/Powered%20By-TrainInData-orange.svg)](https://www.trainindata.com/)
 
-![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
-![License](https://img.shields.io/badge/Code%20License-MIT-blue.svg)
+## Ingeniería de Variables para Machine Learning - Código
 
 Publicado en Junio de 2020
 
 Curso Original en Inglés: Feature Engineering for Machine Learning
 
-[<img src="./logo.png" width="248">](https://www.udemy.com/course/ingenieria-de-variables-para-machine-learning/?referralCode=CE398C784F17BD87482C)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com/?lang=es)
+[<img src="./LogoUdemy.png" width="248">](https://www.udemy.com/course/ingenieria-de-variables-para-machine-learning/?referralCode=CE398C784F17BD87482C)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com/?lang=es)
 
 ## Links
 
@@ -43,10 +44,8 @@ Curso Original en Inglés: Feature Engineering for Machine Learning
 	9. Agregado de indicador de ausencia
 	11. Secuencia de imputación
 
-4. **Sustitución multivariada**
-	1. Muy pronto
 
-5. **Codificación de variables categóricas**
+4. **Codificación de variables categóricas**
 	1. Codificación One Hot
 	2. Codificación One Hot de categorías frecuentes
 	3. Codificación Ordinal
@@ -57,25 +56,25 @@ Curso Original en Inglés: Feature Engineering for Machine Learning
 	8. Peso de la evidencia
 	9. Manejo de etiquetas raras
 
-6. **Transformación de variables numéricas**
+5. **Transformación de variables numéricas**
 	1. Transformación Logarítmica
 	2. Transformación de Potencia
 	3. Transformación Reciproca
 	4. Transformación de BoxCox
 	5. Transformación de Yeo-Johnson
 
-7. **Discretización**
+6. **Discretización**
 	1. Discretización con intervalos de igual rango 
 	2. Discretización con intervalos de igual frecuencia
 	3. Discretización arbitraria
 	4. Discretización con árboles de decisión
 
-8. **Datos Extremos**
+7. **Datos Extremos**
 	1. Remoción de datos extremos
 	2. Truncamiento 
 	3. Winzorisación
 
-9. **Escalamiento de variables**
+8. **Escalamiento de variables**
 	1. Estandarización
 	2. Escalamiento por la media
 	3. Escalamiento al mínimo y máximo valor
@@ -83,16 +82,16 @@ Curso Original en Inglés: Feature Engineering for Machine Learning
 	5. Escalamiento con mediana y rango entre-cuartil
 	6. Normalización a la norma del vector
 
-10. **Variables mixtas**
+9. **Variables mixtas**
 	1. Separación en componente numérico y componente categórico
 
-11. **Variables de fecha y hora**
+10. **Variables de fecha y hora**
 	1. Extracción de componentes de día, mes y año
 	2. Extracción de hora, minutos y segundos
 	3. Captura de tiempo transcurrido
 	4. Manejo de zonas horarias
 
-12. Ensamblado de flujos de aprendizaje automático
+11. Ensamblado de flujos de aprendizaje automático
 	1. Regresión
 	2. Clasificación
 
