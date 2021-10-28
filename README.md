@@ -12,7 +12,7 @@ Curso Original en Inglés: [Feature Engineering for Machine Learning](https://ww
 
 ## Links
 
-- [Curso Online](https://www.udemy.com/course/ingenieria-de-variables-para-machine-learning/?referralCode=CE398C784F17BD87482C)
+- [Curso Online en Español](https://www.udemy.com/course/ingenieria-de-variables-para-machine-learning/?referralCode=CE398C784F17BD87482C)
 
 
 ## Tabla de Contenidos
