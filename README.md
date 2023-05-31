@@ -6,13 +6,13 @@
 
 Publicado en Junio de 2020
 
-Curso Original en Inglés: [Feature Engineering for Machine Learning](https://www.udemy.com/course/feature-engineering-for-machine-learning/?referralCode=A855148E05283015CF06)
+Curso Original en Inglés: [Feature Engineering for Machine Learning](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
 
-[<img src="./LogoUdemy.png" width="248">](https://www.udemy.com/course/ingenieria-de-variables-para-machine-learning/?referralCode=CE398C784F17BD87482C)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com/?lang=es)
+[<img src="./LogoUdemy.png" width="248">](https://www.trainindata.com/p/feature-engineering-for-machine-learning)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com/?lang=es)
 
 ## Links
 
-- [Curso Online en Español](https://www.udemy.com/course/ingenieria-de-variables-para-machine-learning/?referralCode=CE398C784F17BD87482C)
+- [Curso Online en Ingles](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
 
 
 ## Tabla de Contenidos
