@@ -6,13 +6,19 @@
 
 Publicado en Junio de 2020
 
+El codigo no se actualiza.
+
+Videos en español: [Ingeniería de Variables, Playlist en YouTube](https://www.youtube.com/watch?v=fmAUVceuQu4&list=PL_7uaHXkQmKU6JyThyqyUUZdCYqJJ9SeO)
+
 Curso Original en Inglés: [Feature Engineering for Machine Learning](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
 
-[<img src="./LogoUdemy.png" width="248">](https://www.trainindata.com/p/feature-engineering-for-machine-learning)  [<img src="./trainindata.png" width="248">](https://www.trainindata.com/?lang=es)
+[<img src="./trainindata.png" width="248">](https://www.trainindata.com/?lang=es)
+
 
 ## Links
 
-- [Curso Online en Ingles](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
+- [Curso Online en Inglés](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
+- [Lista de videos en Español](https://www.youtube.com/watch?v=fmAUVceuQu4&list=PL_7uaHXkQmKU6JyThyqyUUZdCYqJJ9SeO)
 
 
 ## Tabla de Contenidos
@@ -95,3 +101,5 @@ Curso Original en Inglés: [Feature Engineering for Machine Learning](https://ww
 	1. Regresión
 	2. Clasificación
 
+- [Curso Online en Inglés](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
+- [Lista de videos en Español](https://www.youtube.com/watch?v=fmAUVceuQu4&list=PL_7uaHXkQmKU6JyThyqyUUZdCYqJJ9SeO)
